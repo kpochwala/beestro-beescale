@@ -1,5 +1,5 @@
 # Summary #
-This is beehive monitoring system. Created initiallyy for beestro (http://beestro.pl/). Shared under MIT License (see LICENSE file).
+This is beehive monitoring system. Created initially for beestro (http://beestro.pl/). Shared under MIT License (see LICENSE file).
 
 Everything contained here is enough to edit the project, i.e. all dependancies are within repository, unless otherwise specified. 
 
